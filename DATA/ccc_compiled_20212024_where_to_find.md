@@ -1,0 +1,2 @@
+To access the ccc_compiled_20212024.csv file needed for this project, go to [https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/6OPP7H](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/9MMYDI) then click on the "Access Dataset" button.
+After unzipping the file, the folder will contain ccc_compiled_20212024.csv and Crowd Counting Consortium Phase 2 (2021-2024) Data Dictionary.docx. The csv file is the data needed and the docx file is this data's data dictionary. 
