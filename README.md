@@ -1,24 +1,35 @@
 # DS4002 Project 2
 
-Software Used:
-Jupyter Notebook (Python)
+## Section 1: Software and platform section
+Software Used: <br>
+Google Collab (Python - ipynb)
 
-Packages Required:
-pandas
-beautifulsoup4
-requests
-scipy.stats
+Packages Required:<br>
+pandas<br>
+numpy<br>
+matplotlib.pyplot<br>
+prophet<br>
 
-Platform:
-Windows
+Platform:<br>
+Mac 
 
-# Software Used:
--
--
+## Section 2: Project Folder Structure<br>
+Milestone3/
+│-- DATA/
+│   │-- 
+│   │-- 
+│-- SCRIPTS/
+│   │-- 
+│   │-- 
+│-- LICENSE
+│-- OUTPUTS/
+│   |-- 
+│   │-- 
+│   │-- 
 
-# Section 3: Instructions for Reproducing Results
-
+# Section 3: Instructions for Reproducing Results<br>
 Clone the Repository
 Install Required Packages
--
--
+Open the data set files named supreme_court_2017_2023_subset.xlsx, supreme_court.xlsx, protest_data_2017_2023_subset.xlsx
+Perform Data Analysis
+
